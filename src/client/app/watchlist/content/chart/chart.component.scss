@@ -1,5 +1,6 @@
 .mp-chart {
   .mdl-card__title {
+    float: right;
     h4 {
       span:first-child,
       .mp-price {
@@ -27,6 +28,7 @@
 
     .mdl-tabs__tab-bar {
       height: auto;
+      float: left;
       .mdl-tabs__tab {
         height: 30px;
         line-height: 30px;

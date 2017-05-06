@@ -1,9 +1,10 @@
 .mdl-layout__header {
-  min-height: 50px;
+  min-height: 0px;
+  visibility: hidden;
 }
 
 .mdl-layout__header-row {
-  height: 50px;
+  height: 0px;
   padding-left: 10px;
 
   .mp-arrow {
